@@ -1,0 +1,3 @@
+{'u8AtvProgramCount': 3, 'VideoStandard': '1', 'AudioStandard': 0, 'u8CityIndex': 6, 'u32FrequencyKHz': 0, 'u8AtvProgramIndex': 0}
+{'u8AtvProgramCount': 3, 'VideoStandard': '1', 'AudioStandard': 0, 'u8CityIndex': 6, 'u32FrequencyKHz': 0, 'u8AtvProgramIndex': 1}
+{'u8AtvProgramCount': 3, 'VideoStandard': '1', 'AudioStandard': 0, 'u8CityIndex': 6, 'u32FrequencyKHz': 0, 'u8AtvProgramIndex': 2}

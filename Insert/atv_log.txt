@@ -1,0 +1,8 @@
+01-19 17:13:20.732  1370  1370 I tvos    : FACTORY:<< 67250 KHz  Ch[0]FACTORY:AudioStandard=10                            
+01-19 17:13:20.732  1370  1370 I tvos    : FACTORY:VideoStandard=1
+
+01-19 17:13:33.831  1370  1370 I tvos    : FACTORY:<< 134500 KHz  Ch[1]FACTORY:AudioStandard=10
+01-19 17:13:33.831  1370  1370 I tvos    : FACTORY:VideoStandard=1
+                                                                                       
+01-19 17:15:24.336  1370  1370 I tvos    : FACTORY:<< 818000 KHz  Ch[2]FACTORY:AudioStandard=10
+01-19 17:15:24.336  1370  1370 I tvos    : FACTORY:VideoStandard=1
